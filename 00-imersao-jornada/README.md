@@ -71,7 +71,7 @@ Download dos arquivos das aulas: [Drive](https://drive.google.com/drive/folders/
 
 **Frase-chave:** Dados bons precisam escalar.
 
-**Material:** [Aula 3 - Engenharia de Dados](./aulas/aula-03-engenharia/) *(em breve)*
+**Material:** [Aula 3 - Engenharia de Dados](./aulas/aula-03-dbt/)
 
 ---
 
@@ -84,7 +84,7 @@ Download dos arquivos das aulas: [Drive](https://drive.google.com/drive/folders/
 
 **Exemplo:** "Esse produto está mais caro que o mercado."
 
-**Material:** [Aula 4 - Inteligência Artificial](./aulas/aula-04-ia/) *(em breve)*
+**Material:** [Aula 4 - Inteligência Artificial](./aulas/aula-04-n8n/)
 
 ---
 
